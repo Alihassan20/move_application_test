@@ -6,9 +6,7 @@ import '../../constant/new_route.dart';
 import '../screen/movie_detail/view.dart';
 class MovieItemSearch extends StatelessWidget {
   final Results? movieItem;
-
   const MovieItemSearch({Key? key, required this.movieItem}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Container(

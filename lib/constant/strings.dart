@@ -1,0 +1,2 @@
+const baseUrl = 'https://api.themoviedb.org/3/movie';
+const authorizationKey = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNGMyMWIwNzI5OWVjZmMwOGFlZTYxMjM1M2VlOTNmYiIsInN1YiI6IjY0ZTM0YTMyMDc2Y2U4NDNiNzRkZGI3ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.eLqi8WWgrYE8tzOakKCeVZgq4gZqciJYqgh8x7BYZgk";
